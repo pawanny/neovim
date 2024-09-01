@@ -3,7 +3,7 @@
 -- Usage:
 --    ./scripts/bump_deps.lua -h
 
-local M = {}
+
 
 local _trace = false
 local required_branch_prefix = 'bump-'
